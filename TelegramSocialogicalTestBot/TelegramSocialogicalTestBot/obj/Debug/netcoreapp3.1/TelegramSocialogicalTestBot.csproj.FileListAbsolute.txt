@@ -1,0 +1,16 @@
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\obj\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.csprojAssemblyReference.cache
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\obj\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.AssemblyInfoInputs.cache
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\obj\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.AssemblyInfo.cs
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\obj\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.csproj.CoreCompileInputs.cache
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\bin\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.exe
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\bin\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.deps.json
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\bin\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.runtimeconfig.json
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\bin\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.runtimeconfig.dev.json
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\bin\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.dll
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\bin\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.pdb
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\obj\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.csproj.CopyComplete
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\obj\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.dll
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\obj\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.pdb
+X:\Работа\TelegramSocialogicalTestBot\TelegramSocialogicalTestBot\obj\Debug\netcoreapp3.1\TelegramSocialogicalTestBot.genruntimeconfig.cache
